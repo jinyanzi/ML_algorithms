@@ -1,2 +1,2 @@
-# ML_algorithms
-Implementation of machine learning algorithms
+This is a Python implentations of various machine learning algorithms, including:
+- Logistic regression.
